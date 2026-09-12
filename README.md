@@ -13,7 +13,7 @@
 <!-- Your custom avatar -->
 <a href="https://github.com/newaarurgb">
   <img
-    src="https://raw.githubusercontent.com/newaarurgb/newaarurgb/main/assets/aaru-avatar.png"
+    src="https://raw.githubusercontent.com/newaarurgb/newaarurgb/main/assets/aaruavatar.png"
     width="190"
     alt="AARU cyberpunk avatar"
   />
