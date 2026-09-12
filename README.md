@@ -1,79 +1,187 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Aravind Padmanabhan" width="100%"/>
+# `> HELLO, WORLD_`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=I'm+Aravind+Padmanabhan;Full+Stack+Python+Developer;Python+%7C+Django+%7C+React;AI%2FML+Explorer;Build+%7C+Learn+%7C+Create" alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/badge/FULL%20STACK-PYTHON%20DEVELOPER-00F7FF?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/BUILDING-THE%20FUTURE-9B59FF?style=for-the-badge" />
 
 </div>
 
-<br/>
+---
 
-## 🧑‍💻 About Me
+## `> whoami`
 
-- 🎓 B.Tech in Computer Science at **IIITDM Kancheepuram**, Chennai, India
-- 🚀 Currently sharpening skills in **Python, Django, MySQL, JavaScript & React.js**
-- 🎯 Looking for **entry-level Full Stack Developer** roles
-- 🌱 Learning system design fundamentals and clean architecture patterns
-- 💬 Ask me about SQL, REST APIs, or frontend layouts with React
-- ⚡ Fun fact: I enjoy turning half-finished side projects into polished, demo-ready builds
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  👨‍💻 Full Stack Python Developer                           │
+│                                                             │
+│  🐍 Building web applications with Python & Django         │
+│  ⚛️  Creating modern interfaces with React                  │
+│  🗄️  Working with MySQL & databases                        │
+│  🤖 Exploring Artificial Intelligence & Machine Learning    │
+│  🚀 Turning ideas into practical projects                   │
+│                                                             │
+│  > Always learning. Always building.                        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+## `> tech_stack.exe`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=django,react,vite" />
+
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 
 </div>
 
-<sub>These are static badges — plain images with fixed text, not live data pulled from an API, so they don't break.</sub>
+---
 
-<br/>
+## `> featured_projects`
 
-## 📌 Featured Projects
+### 🏨 `StayEase`
 
-| Project | What it does |
-|---|---|
-| **[Project Name](https://github.com/your-github-username/repo-one)** | One-line description of what it does and the stack used. |
-| **[Project Name](https://github.com/your-github-username/repo-two)** | One-line description of what it does and the stack used. |
-| **[Project Name](https://github.com/your-github-username/repo-three)** | One-line description of what it does and the stack used. |
+**Full Stack Hotel Booking Platform**
 
-<br/>
+> A hotel booking web application developed using Python, Django and MySQL.
 
-## 📈 GitHub Activity
+**Features**
+
+* 🔐 User authentication
+* 🏨 Hotel browsing & details
+* 📅 Booking management
+* ⭐ Reviews & ratings
+* ❤️ Wishlist functionality
+* 💳 Payment workflow
+* 📊 User dashboard
+
+**Tech:** `Python` `Django` `MySQL` `HTML` `CSS` `JavaScript`
 
 <div align="center">
 
-<a href="https://github.com/your-github-username?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20all%20repositories-00c6ff?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/newaarurgb/stayease">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
 </div>
 
-<sub>Skipping the live stats-card widgets on purpose — those pull from a third-party rendering service that occasionally goes down. A direct link to your repos is 100% reliable.</sub>
+---
 
-<br/>
+### 📝 `AARU Blog`
 
-## 🌐 Connect With Me
+**Modern React Blogging Platform**
+
+> A responsive blog platform built with React, JavaScript and modern frontend concepts.
+
+**Features**
+
+* ⚛️ React component architecture
+* 🧭 React Router navigation
+* 📝 Dynamic blog posts
+* 🗂️ Category-based content
+* 🔄 Context API state management
+* 🎨 Modern animated UI
+* 📱 Responsive design
+
+**Tech:** `React` `JavaScript` `HTML` `CSS` `Context API`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+<a href="https://github.com/newaarurgb">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-9B59FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-<br/>
+---
+
+## `> github_stats`
 
 <div align="center">
-<img src="./assets/footer.svg" alt="" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=newaarurgb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=9B59FF&text_color=FFFFFF" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newaarurgb&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF" height="180"/>
+
+</div>
+
+---
+
+## `> contribution_matrix`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=newaarurgb&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=9B59FF&currStreakLabel=00F7FF" />
+
+</div>
+
+---
+
+## `> contribution.exe`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## `> current_status`
+
+```text
+STATUS: ONLINE 🟢
+
+[████████████████████░] 95%
+
+> Learning        ████████████████████
+> Building        ███████████████████░
+> Exploring AI    ████████████████░░░░
+> Improving       ████████████████████
+
+SYSTEM MESSAGE:
+"Code is not just written.
+ It is built, tested, broken, fixed and learned from."
+```
+
+---
+
+## `> connect_with_me`
+
+<div align="center">
+
+<a href="https://github.com/newaarurgb">
+<img src="https://img.shields.io/badge/GitHub-newaarurgb-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/aravind-padmanabhan-2b8a7b419/">
+<img src="https://img.shields.io/badge/LinkedIn-Aravind%20Padmanabhan-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> BUILD. LEARN. CREATE. REPEAT.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:9B59FF,100:000000&height=100&section=footer" />
+
 </div>
