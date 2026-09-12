@@ -143,24 +143,27 @@
 
 ---
 
+---
+
 ## `> current_status`
 
 ```text
-STATUS: ONLINE 🟢
-
-[████████████████████░] 95%
-
-> Learning        ████████████████████
-> Building        ███████████████████░
-> Exploring AI    ████████████████░░░░
-> Improving       ████████████████████
-
-SYSTEM MESSAGE:
-"Code is not just written.
- It is built, tested, broken, fixed and learned from."
-```
-
----
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  STATUS: ONLINE 🟢                                          │
+│                                                             │
+│  [████████████████████░] 95%                               │
+│                                                             │
+│  > Learning        ████████████████████                    │
+│  > Building        ███████████████████░                    │
+│  > Exploring AI    ████████████████░░░░                    │
+│  > Improving       ████████████████████                    │
+│                                                             │
+│  SYSTEM MESSAGE:                                            │
+│  "Code is not just written.                              │
+│   It is built, tested, broken, fixed and learned from."    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
 ## `> connect_with_me`
 
