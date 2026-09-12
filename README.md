@@ -115,9 +115,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=newaarurgb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=9B59FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=newaarurgb&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newaarurgb&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newaarurgb&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
