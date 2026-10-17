@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Neon cyan and violet footer">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f5ff"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#00f5ff"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="150" rx="18" fill="#070a14"/>
+  <path d="M0 30 Q150 110 300 55 T600 55 T900 55 T1200 30" fill="none" stroke="url(#g)" stroke-width="2" opacity=".75" filter="url(#glow)" stroke-dasharray="24 14"><animate attributeName="stroke-dashoffset" values="0;-152" dur="8s" repeatCount="indefinite"/></path>
+  <path d="M0 50 Q150 130 300 75 T600 75 T900 75 T1200 50" fill="none" stroke="#7c3aed" stroke-width="1" opacity=".7"/>
+  <text x="600" y="111" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="13" letter-spacing="4" fill="#c4b5fd">THANKS FOR STOPPING BY</text>
+</svg>

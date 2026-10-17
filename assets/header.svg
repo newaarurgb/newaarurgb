@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Aravind Padmanabhan — Full Stack Developer</title>
+  <desc id="desc">Dark cyberpunk banner with cyan and violet neon circuitry.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/><stop offset=".55" stop-color="#0b1024"/><stop offset="1" stop-color="#160b2c"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f5ff" stop-opacity="0"/>
+      <stop offset=".45" stop-color="#00f5ff"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity=".15"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#24304d" stroke-width="1" opacity=".48"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="22" fill="url(#grid)"/>
+  <path d="M0 65H170L205 100H320 M1200 72H1040L1000 112H900 M0 270H160L200 230H290 M1200 260H1050L1015 225H920" fill="none" stroke="url(#line)" stroke-width="2"/>
+  <path d="M35 145H130L155 170H230 M1165 155H1070L1040 180H970" fill="none" stroke="#00f5ff" stroke-width="1.5" opacity=".65"/>
+  <g fill="#00f5ff" filter="url(#glow)">
+    <circle cx="170" cy="65" r="3"/><circle cx="320" cy="100" r="3"/><circle cx="1040" cy="72" r="3"/><circle cx="900" cy="112" r="3"/>
+  </g>
+  <g fill="#a855f7" filter="url(#glow)">
+    <circle cx="160" cy="270" r="3"/><circle cx="290" cy="230" r="3"/><circle cx="1050" cy="260" r="3"/><circle cx="920" cy="225" r="3"/>
+  </g>
+  <rect x="66" y="52" width="1068" height="226" rx="18" fill="#080d1b" fill-opacity=".72" stroke="#1c3150" stroke-width="1.5"/>
+  <rect x="70" y="58" width="1060" height="2" fill="#00f5ff" opacity=".55">
+    <animate attributeName="y" values="58;268;58" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".08;.65;.08" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="67" y="53" width="1066" height="2" rx="1" fill="url(#line)">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+  <text x="600" y="122" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="5" fill="#00f5ff">PORTFOLIO // 2026</text>
+  <text x="600" y="176" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="39" font-weight="700" letter-spacing="1" fill="#f8fafc">ARAVIND PADMANABHAN</text>
+  <text x="600" y="211" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="18" letter-spacing="2" fill="#c4b5fd">FULL STACK PYTHON DEVELOPER</text>
+  <text x="600" y="245" text-anchor="middle" font-family="Consolas, monospace" font-size="13" fill="#94a3b8">BUILD  /  LEARN  /  SHIP  /  REPEAT</text>
+  <path d="M260 258H430 M770 258H940" stroke="#7c3aed" stroke-width="2" opacity=".85"/>
+  <circle cx="245" cy="258" r="3" fill="#00f5ff"/><circle cx="955" cy="258" r="3" fill="#00f5ff"/>
+</svg>
